@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyw
+*.pyz
+*.pywz
+*.pyzw
+*.pyzwz
+
+# Environment variables
+.env
+
+# Virtual environment
+.venv/
+
+# Mac OS files 
+.DS_Store
+
+# UV package manager
+uv.lock
+
+# draw_mermais script костыль
+src/scripts/draw_mermaid.py
+src/scripts/graph.png
