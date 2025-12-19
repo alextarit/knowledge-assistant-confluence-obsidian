@@ -188,9 +188,9 @@ python src/main.py
 
 ![Примеры трейсов](docs/images/example_traces.png)
 
-**Небольшное демо**
+**Небольшое демо**
 
-![Небольшое демо](docs/videos/example_demo.mp4)
+https://github.com/alextarit/knowledge-assistant-confluence-obsidian/raw/main/docs/videos/example_demo_compressed.mp4
 
 P.s. демонстрация сильно обрезана, поскольку в определенный момент осознано, что слишком много данных могут быть квалифицированы чувствительными, несмотря на замазывание секретов и прочего
 
@@ -243,8 +243,10 @@ lab2/
 │   └── logger/                    # Логирование
 │       └── logger.py              # Конфигурация логов
 ├── docs/                          # Документация
-│   └── images/
-│       └── arch_supervisor_as_tools.png  # Диаграмма архитектуры
+│   ├── images/
+│   │   └── arch_supervisor_as_tools.png  # Диаграмма архитектуры
+│   └── videos/
+│       └── example_demo_compressed.mp4   # Демо приложения
 ├── pyproject.toml                 # Конфигурация проекта и зависимости
 └── README.md                      # Этот файл
 ```
